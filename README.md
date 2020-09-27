@@ -13,14 +13,14 @@ The purpose of this analysis was to retrieve temperature data for the months of 
 - The standard deviation for the month of June is 3.25 degrees fahrenheit
 - The standard deviation for the month of December is 3.74 degrees fahrenheit
 
-   Below is a statistic summary for temperature for June:
+   Below is a statistic summary of temperature for June:
 
    
    ![Surf_up](Resources/june_temp_stat.PNG)
 
 
      
-   Below is a statistic summary for temperature for December:
+   Below is a statistic summary of temperature for December:
 
 
    ![Surf_up](Resources/december_temp_stat.PNG)
